@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Программы для теории\Inheritation_theory\Inheritation_theory\bin\Debug\Inheritation_theory.exe.config
+C:\Users\Пользователь\Desktop\Программы для теории\Inheritation_theory\Inheritation_theory\bin\Debug\Inheritation_theory.exe
+C:\Users\Пользователь\Desktop\Программы для теории\Inheritation_theory\Inheritation_theory\bin\Debug\Inheritation_theory.pdb
+C:\Users\Пользователь\Desktop\Программы для теории\Inheritation_theory\Inheritation_theory\obj\Debug\Inheritation_theory.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Программы для теории\Inheritation_theory\Inheritation_theory\obj\Debug\Inheritation_theory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Программы для теории\Inheritation_theory\Inheritation_theory\obj\Debug\Inheritation_theory.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Программы для теории\Inheritation_theory\Inheritation_theory\obj\Debug\Inheritation_theory.exe
+C:\Users\Пользователь\Desktop\Программы для теории\Inheritation_theory\Inheritation_theory\obj\Debug\Inheritation_theory.pdb
